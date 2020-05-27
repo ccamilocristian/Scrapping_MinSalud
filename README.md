@@ -30,7 +30,7 @@ Las siguientes son interrogantes que motivaron el análisis de los dos actos adm
 
 ### 1. Scrapping:
 
-El proceso de Scrapping se divide en dos scripts, en [Scrapping_Decretos_MinSalud.ipynb](Decretos/Scrapping_Decretos_MinSalud.ipynb) se encuentra el proceso para los decretos y en [Scrapping_Resoluciones_MinSalud.ipynb](Decretos/Scrapping_Resoluciones_MinSalud.ipynb) se encuentra el proceso para las resoluciones.
+El proceso de Scrapping se divide en dos scripts, en [Scrapping_Decretos_MinSalud.ipynb](Decretos/Scrapping_Decretos_MinSalud.ipynb) se encuentra el proceso para los decretos y en [Scrapping_Resoluciones_MinSalud.ipynb](Resoluciones/Scrapping_Resoluciones_MinSalud.ipynb) se encuentra el proceso para las resoluciones.
 
 Cada código tiene dos funcionalidades:
 1. La primera es traer el número de registros, año e indicativo del año para así mismo desarrollar el scrapping de la página.
