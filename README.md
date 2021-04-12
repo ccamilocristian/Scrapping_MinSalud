@@ -14,7 +14,7 @@ Definición en el link siguiente: [Definición Decretos](https://normativa.archi
 
 Definición en el link siguiente: [Definición Resoluciones](https://normativa.archivogeneral.gov.co/inicio/resoluciones/)
 
-Según estudios de [McKensey](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics), el análisis del datos referente a información no estructurada como audios, textos e imagen, a futuro tienen gran potencial debido a su gran cantidad de datos que almacén y su poca investigación en la actualidad.
+Según estudios de [McKinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics), el análisis del datos referente a información no estructurada como audios, textos e imagen, a futuro tienen gran potencial debido a su gran cantidad de datos que almacén y su poca investigación en la actualidad.
 
 Dado lo anterior, el presente documento tiene como objetivo hacer el análisis exploratorio de los datos encontrados en la extracción de información no estructurada como los son textos en formato PDF. Así, se usarán los actos administrativos más relevantes de los entres de control como lo son los Decretos y las resoluciones, tomando el intervalo del año 2000 a mayo del 2020. En el análisis exploratorio se relacionarán indicadores macroeconómicos con el fin de dar insumos para investigaciones futuras de efectos causales y correlaciones estadísticas. 
 
